@@ -13,3 +13,12 @@ Now our work will continue locally
 2 commited the chanhe t local repo
 3. we want this change to be reflected in remote repository so we pushed local commits to remote repository using push origin button 
 4. observe it has ben added in your repository under github.com
+
+How to save after adding some rext in sublime 
+on mac command + s
+on window control + s
+or click on file --> save
+
+we do no have to push one commit at a time
+you can push mulutiple commits in one shot
+there is no limit
