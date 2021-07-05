@@ -22,3 +22,5 @@ or click on file --> save
 we do no have to push one commit at a time
 you can push mulutiple commits in one shot
 there is no limit
+
+if you have changes tab you do not wish to commit you can right click and select discard changes, it will remove it from sublime
